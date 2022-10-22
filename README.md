@@ -1,7 +1,5 @@
 ### Olá! Eu sou o Rafael de Angeles 🖐️
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-toledano-91b662250/)
-@@ -9,7 +9,7 @@
 
 ![Rafael de Angeles GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaeldAngeles&show_icons=true&theme=dracula&count_private=true&theme=onedark)
 
@@ -14,11 +12,14 @@
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img align="center" alt="js" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   
-@@ -20,7 +20,7 @@
+
 
 Apaixonado por enfrentar e solucionar desafios através dos códigos.
 
 ## Contato
 
 Telefone: (11) 93010-8984
+  
 E-mail: rafael.angeles.toledano@gmail.com
+  
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-toledano-91b662250/)
