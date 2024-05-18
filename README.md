@@ -17,13 +17,13 @@ Sou desenvolvedor back-end com uma paixão por criar soluções eficientes e esc
 - **JavaScript**: Node.js, Express
 
 ### 🗄️ Bancos de Dados
-- **SQL**: MySQL, PostgreSQL, SQLite
+- **SQL**: MySQL, SQLite
 
 ### 🛠️ Ferramentas e Tecnologias
 - **Versionamento**: Git, GitHub, GitLab
 - **APIs**: RESTful, GraphQL
 - **Deploy**: Docker, Kubernetes
-- **CI/CD**: GitHub Actions
+- **Cloud**: AWS Lambda, ECR, S3
 
 ---
 
