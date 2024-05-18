@@ -16,7 +16,7 @@ Sou desenvolvedor back-end com uma paixão por criar soluções eficientes e esc
 ## Habilidades
 
 ### 🖥️ Linguagens de Programação
-- **Python**: Django, Flask, FastAPI
+- **Python**:Pandas, Django, Flask, FastAPI
 - **JavaScript**: Node.js, Express
 
 ### 🗄️ Bancos de Dados
