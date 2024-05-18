@@ -1,3 +1,9 @@
+## Tecnologias Mais Utilizadas nos Repositórios
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaeldAngeles&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
 # 👨‍💻 Rafael de Angeles
 
 ### Desenvolvedor Back-End | Python | Node.js | SQL
@@ -9,6 +15,7 @@
 Sou desenvolvedor back-end com uma paixão por criar soluções eficientes e escaláveis. Trabalho principalmente com Python, Node.js e SQL, e adoro transformar desafios complexos em sistemas robustos e funcionais. Sempre busco garantir que as aplicações que desenvolvo sejam seguras, rápidas e confiáveis.
 
 ---
+
 
 ## Habilidades
 
@@ -26,6 +33,7 @@ Sou desenvolvedor back-end com uma paixão por criar soluções eficientes e esc
 - **Cloud**: AWS Lambda, ECR, S3
 
 ---
+
 
 ## Educação
 
