@@ -1,4 +1,4 @@
-# 👨‍💻 [Rafael de Angeles]
+# 👨‍💻 Rafael de Angeles
 
 ### Desenvolvedor Back-End | Python | Node.js | SQL
 
@@ -10,19 +10,16 @@ Sou desenvolvedor back-end com uma paixão por criar soluções eficientes e esc
 
 ---
 
-
----
-
 ## Habilidades
 
-### Linguagens de Programação
+### 🖥️ Linguagens de Programação
 - **Python**: Django, Flask, FastAPI
 - **JavaScript**: Node.js, Express
 
-### Bancos de Dados
+### 🗄️ Bancos de Dados
 - **SQL**: MySQL, PostgreSQL, SQLite
 
-### Ferramentas e Tecnologias
+### 🛠️ Ferramentas e Tecnologias
 - **Versionamento**: Git, GitHub, GitLab
 - **APIs**: RESTful, GraphQL
 - **Deploy**: Docker, Kubernetes
@@ -30,12 +27,10 @@ Sou desenvolvedor back-end com uma paixão por criar soluções eficientes e esc
 
 ---
 
----
-
 ## Educação
 
-### [Faculdade das Américas (FAM)] |  [Análise e Desenvolvimento de Sistemas]
-**[01/2023] - [12/2025]**
+### 🎓 Faculdade das Américas (FAM) | Análise e Desenvolvimento de Sistemas
+**01/2023 - 12/2025**
 - **Resumo do Curso**: Durante o curso, adquiro conhecimentos sólidos em programação, desenvolvimento de sistemas, e gestão de projetos de software. Aprendo a utilizar diversas linguagens de programação, como Python, JavaScript e C, e tecnologias de banco de dados como SQL. Também estudo metodologias ágeis, engenharia de software, arquitetura de sistemas, e segurança da informação.
 - **Atividades e grupos**: Participação em clubes de programação, grupos de estudo focados em desenvolvimento web e mobile, e projetos extracurriculares que envolvem a criação de aplicativos e sistemas empresariais.
 
@@ -43,8 +38,8 @@ Sou desenvolvedor back-end com uma paixão por criar soluções eficientes e esc
 
 ## Contato
 
-- **LinkedIn**: (https://www.linkedin.com/in/rafael-de-angeles-91b662250/)
-- **Email**: [rafael.angeles.toledano@gmail.com]
+- **LinkedIn**: [🔗](https://www.linkedin.com/in/rafael-de-angeles-91b662250/)
+- **Email**: [📧](mailto:rafael.angeles.toledano@gmail.com)
 
 ---
 
