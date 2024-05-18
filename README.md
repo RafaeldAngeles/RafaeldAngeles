@@ -1,10 +1,7 @@
-# 👨‍💻 Rafael de Angeles - Desenvolvedor Back-End | Python | Node.js | SQL
-
-
+# 👨‍💻 Rafael de Angeles
+## Desenvolvedor Back-End | Python | Node.js | SQL
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaeldAngeles&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
----
 
 ## Sobre Mim
 
