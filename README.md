@@ -2,11 +2,6 @@
 
 ## Desenvolvedor Back-End | Python | Node.js | SQL
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaeldAngeles&layout=compact)](https://github.com/RafaeldAngeles)
-
-
-
-
 ## Sobre Mim
 
 Sou desenvolvedor back-end com uma paixão por criar soluções eficientes e escaláveis. Trabalho principalmente com Python, Node.js e SQL, e adoro transformar desafios complexos em sistemas robustos e funcionais. Sempre busco garantir que as aplicações que desenvolvo sejam seguras, rápidas e confiáveis.
