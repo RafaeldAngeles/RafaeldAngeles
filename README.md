@@ -28,7 +28,7 @@ Sou analista de dados com uma paixão por transformar dados em insights valiosos
 **Atividades e Grupos**: Participação em clubes de programação, grupos de estudo focados em análise de dados e desenvolvimento web e mobile, e projetos extracurriculares que envolvem a criação de aplicativos e sistemas empresariais.
 
 ## Contato
-- **LinkedIn**: [🔗]([https://www.linkedin.com](https://www.linkedin.com/in/rafael-de-angeles-91b662250/))
+- **LinkedIn**: [Perfil do LinkedIn](https://www.linkedin.com/in/rafael-de-angeles-91b662250/)
 - **Email**: [📧](rafael.angeles.toledano@gmail.com)
 
 Estou sempre em busca de novos desafios e oportunidades para aplicar e expandir minhas habilidades. Se você está procurando um analista de dados dedicado e competente, adoraria conversar!
