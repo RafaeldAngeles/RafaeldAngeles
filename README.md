@@ -1,4 +1,4 @@
-# 👨‍💻 DEV Back-end | NodeJS | NestJS | Express| Python | TypeScript | Docker | Git | AWS
+# 👨‍💻 DEV Back-end | NodeJS | NestJS | Express | Python | TypeScript | Docker | Git | AWS
 
 ## Sobre Mim
 Sou desenvolvedor backend com experiência em Node.js, NestJS, SQL e Docker, criando APIs e sites eficientes com Express e integrando bancos de dados SQL e NoSQL. Trabalho com arquitetura de microserviços, aplicando princípios de Clean Code e SOLID para garantir código legível, escalável e fácil de manter. Focado em desempenho e segurança, busco entregar soluções robustas que atendam às necessidades estratégicas das organizações.
@@ -32,3 +32,7 @@ Sou desenvolvedor backend com experiência em Node.js, NestJS, SQL e Docker, cri
 - **Email**: [rafael.angeles.toledano@gmail.com](mailto:rafael.angeles.toledano@gmail.com)
 
 Estou sempre em busca de novos desafios e oportunidades para aplicar e expandir minhas habilidades. Se você está procurando um desenvolvedor dedicado e competente, adoraria conversar!
+
+<h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
+
+![Rafael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RafaeldAngeles&show_icons=true&theme=dracula)
