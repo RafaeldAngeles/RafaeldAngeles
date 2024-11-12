@@ -1,34 +1,34 @@
-# 👨‍💻 Analista de Dados | Python | SQL | Power BI | ETL | Big Data | Docker | Git | AWS
+# 👨‍💻 DEV Back-end | NodeJS | NestJS | Express| Python | TypeScript | Docker | Git | AWS
 
 ## Sobre Mim
-Sou analista de dados com uma paixão por transformar dados em insights valiosos. Utilizo ferramentas e tecnologias como Python, SQL, Power BI, ETL, Big Data, Docker e Git para coletar, analisar e visualizar dados, ajudando as organizações a tomarem decisões informadas e estratégicas. Sempre busco garantir que as análises sejam precisas, relevantes e apresentadas de forma clara e compreensível.
+Sou desenvolvedor backend com experiência em Node.js, NestJS, SQL e Docker, criando APIs e sites eficientes com Express e integrando bancos de dados SQL e NoSQL. Trabalho com arquitetura de microserviços, aplicando princípios de Clean Code e SOLID para garantir código legível, escalável e fácil de manter. Focado em desempenho e segurança, busco entregar soluções robustas que atendam às necessidades estratégicas das organizações.
 
 ## Habilidades
 
-### 🖥️ Linguagens de Programação
-- **Python**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
-- **SQL**: MySQL, PostgreSQL, SQLite
+### ⚙️ &nbsp;Back-end e Banco de Dados:
 
-### 📊 Ferramentas de Visualização
-- **Power BI**: Dashboards, Relatórios Interativos
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs&logoColor=E535AB)
+![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
-### 🛠️ Ferramentas e Tecnologias
-- **ETL**: Apache Airflow, Talend
-- **Big Data**: Hadoop, Spark
-- **Versionamento**: Git, GitHub, GitLab
-- **Deploy**: Docker, Kubernetes, AWS Lambda
+### 📚 &nbsp;Outras Ferramentas e Tecnologias:
 
-
-## Educação
-### 🎓 Faculdade das Américas (FAM) | Análise e Desenvolvimento de Sistemas
-**01/2023 - 12/2025**
-
-**Resumo do Curso**: Durante o curso, adquiro conhecimentos sólidos em programação, análise de dados, e gestão de projetos de software. Aprendo a utilizar diversas linguagens de programação, como Python, JavaScript e C, e tecnologias de banco de dados como SQL. Também estudo metodologias ágeis, engenharia de software, arquitetura de sistemas, e segurança da informação.
-
-**Atividades e Grupos**: Participação em clubes de programação, grupos de estudo focados em análise de dados e desenvolvimento web e mobile, e projetos extracurriculares que envolvem a criação de aplicativos e sistemas empresariais.
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+![RESTful API](https://img.shields.io/badge/-RESTful%20API-333333?style=flat&logo=postman)
+![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql&logoColor=E535AB)
+![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=E535AB)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws)
 
 ## Contato
-- **LinkedIn**: [Perfil do LinkedIn](https://www.linkedin.com/in/rafael-de-angeles-91b662250/)
-- **Email**: [📧](rafael.angeles.toledano@gmail.com)
 
-Estou sempre em busca de novos desafios e oportunidades para aplicar e expandir minhas habilidades. Se você está procurando um analista de dados dedicado e competente, adoraria conversar!
+- **LinkedIn**: [Perfil do LinkedIn](https://www.linkedin.com/in/rafael-de-angeles-91b662250/)
+- **Email**: [rafael.angeles.toledano@gmail.com](mailto:rafael.angeles.toledano@gmail.com)
+
+Estou sempre em busca de novos desafios e oportunidades para aplicar e expandir minhas habilidades. Se você está procurando um desenvolvedor dedicado e competente, adoraria conversar!
