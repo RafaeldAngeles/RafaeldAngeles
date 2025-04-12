@@ -1,26 +1,19 @@
-# 👨‍💻 DEV FullStack | NodeJS | NestJS | Express | Python | TypeScript | Docker | Git | AWS
+# 👨‍💻 DEV Backend | NodeJS | NestJS | Express | Python | TypeScript | Docker | Git | AWS
 
-## Sobre Mim
+## SOBRE MIM
 Sou desenvolvedor backend com experiência em Node.js, NestJS, SQL e Docker, criando APIs e sites eficientes com Express e integrando bancos de dados SQL e NoSQL. Trabalho com arquitetura de microserviços, aplicando princípios de Clean Code e SOLID para garantir código legível, escalável e fácil de manter. Focado em desempenho e segurança, busco entregar soluções robustas que atendam às necessidades estratégicas das organizações.
 
-## Habilidades
+## HABILIDADES
 
 ### ⚙️ &nbsp;Back-end e Banco de Dados:
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs&logoColor=E535AB)
 ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-
-### 🌐 &nbsp;Front-end:
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
 
 ### 📚 &nbsp;Outras Ferramentas e Tecnologias:
 ![RESTful API](https://img.shields.io/badge/-RESTful%20API-333333?style=flat&logo=postman)
@@ -30,8 +23,7 @@ Sou desenvolvedor backend com experiência em Node.js, NestJS, SQL e Docker, cri
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws)
 
-## Contato
-
+## CONTATO
 - **LinkedIn**: [Perfil do LinkedIn](https://www.linkedin.com/in/rafael-de-angeles-91b662250/)
 - **Email**: [rafael.angeles.toledano@gmail.com](mailto:rafael.angeles.toledano@gmail.com)
 
